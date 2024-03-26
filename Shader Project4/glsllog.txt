@@ -1,0 +1,8 @@
+
+ERROR: 0:96: Use of undeclared identifier 'vMC'
+ERROR: 0:97: Use of undeclared identifier 'nvy'
+ERROR: 0:97: Use of undeclared identifier 'nvy'
+ERROR: 0:97: Use of undeclared identifier 'nvy'
+ERROR: 0:97: Use of undeclared identifier 'nvy'
+ERROR: 0:98: Left-hand-side of assignment must not be read-only
+
